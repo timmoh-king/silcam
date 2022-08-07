@@ -2,7 +2,7 @@
  * @Author: Your name
  * @Date:   2022-08-03 10:31:05
  * @Last Modified by:   Your name
- * @Last Modified time: 2022-08-03 12:43:13
+ * @Last Modified time: 2022-08-07 20:46:46
  */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -16,10 +16,9 @@ module.exports = {
       silacamdark: '#000000',
       silcamdarkfade: '#373737',
       silcamheadings: '#0079AD',
-      silcamtitle: '#009DDC',
+      silcambutton: '#009DDC',
       silcambackground: '#EFFFFE',
-      silcammodule: '#F8F8F8',
-      silcamlightblue: '#OD99FF',
+      silcammodule: '#F8F8F8'
     },
     extend: {},
   },
